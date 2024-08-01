@@ -12,17 +12,13 @@
 
 #
 
-👋 Olá, eu sou @Arisson-Oliveira
-
-👀 Tenho interesse em automação e programação Python.
+👋 Olá, eu sou Arisson!
 
 🌱 Atualmente estou aprendendo novas técnicas em automação e aprimorando minhas habilidades em Python.
 
 💞️ Estou buscando colaborar em projetos que envolvam automação, web scraping e análise de dados.
 
-😄 Pronomes: Ele/Dele
-
-⚡ Curiosidade: Gosto de resolver cubos mágicos no meu tempo livre!
+⚡ Curiosidade: Gosto de jogar xadrez no tempo livre!
 
 # 
 
