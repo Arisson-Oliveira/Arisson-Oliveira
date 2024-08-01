@@ -17,7 +17,7 @@
 
 🌱 Atualmente estou aprendendo novas técnicas em automação e aprimorando minhas habilidades em Python.
 
-💞️ Estou buscando colaborar em projetos que envolvam automação, web scraping e análise de dados.
+💞️ Estou buscando colaborar em projetos que envolvam automação, web scraping e desenvolvimento web.
 
 ⚡ Curiosidade: Gosto de jogar xadrez no tempo livre!
 
