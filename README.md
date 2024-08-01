@@ -2,7 +2,6 @@
 
 <h1> Olá!, Seja Bem-Vindo. <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="50"></h1> 
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 <div align="center">
   <!-- Work Links -->
