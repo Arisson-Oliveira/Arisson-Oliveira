@@ -40,6 +40,9 @@ jobs:
             dist/github-contribution-grid-snake.svg
         env:
            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+           color_snake: "#ffffff"  # Cor da cobrinha
+           color_dots: "#000000, #222222, #333333"  # Cores dos pontos
+           color_background: "#000000"  # Cor de fundo preta
 
       - name: Show build status
         run: git status
