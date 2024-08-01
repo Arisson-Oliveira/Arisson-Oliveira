@@ -10,6 +10,8 @@
 
 ⚡ Curiosidade: Gosto de resolver cubos mágicos no meu tempo livre!
 
+# 
+
 
 <div>
 <a href="https://github.com/seu-usuário-aqui">
