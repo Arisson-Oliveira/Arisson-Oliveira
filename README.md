@@ -20,7 +20,3 @@
 
 
 
-
-
-![Snake animation](https://github.com/Arisson-Oliveira/Arisson-Oliveira/blob/output/github-contribution-grid-snake.svg)
-
