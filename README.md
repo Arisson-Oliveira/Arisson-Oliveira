@@ -16,3 +16,5 @@
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arisson-Oliveira&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/?username=Arisson-Oliveira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
+
+![Snake animation](https://github.com/Arisson-Oliveira/Arisson-Oliveira/blob/output/github-contribution-grid-snake.svg)
