@@ -1,3 +1,17 @@
+<img align="right" src="https://komarev.com/ghpvc/?username=Arisson-Oliveira&color=ff69b4"><br>
+
+<h1> Olá!, Seja Bem-Vindo. <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="50"></h1> 
+
+
+<div align="center">
+  <!-- Work Links -->
+  <a href="https://github.com/Arisson-Oliveira" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/arisson-ferreira-2857362b8/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "mailto:arissom.oliveira@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</div>
+
+#
+
 👋 Olá, eu sou @Arisson-Oliveira
 
 👀 Tenho interesse em automação e programação Python.
@@ -23,16 +37,6 @@
   </a>
 </div>
 
-#
-
-
-<div align="center">
-  <!-- Work Links -->
-  <a href="https://github.com/andreinaoliveira" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-  <a href="https://hefesto.uea.edu.br/gitlab/andreinaoliveira" target="_blank"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/andreinaoliveira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "mailto:andreinaholiveira@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</div>
 
 #
 
