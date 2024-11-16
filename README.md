@@ -1,6 +1,6 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=Arisson-Oliveira&color=ff69b4"><br>
 
-<h1> Olá!, Seja Bem-Vindo. <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="50"></h1> 
+<h1> Olá! Seja Bem-Vindo. <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="50"></h1> 
 
 
 <div align="center">
